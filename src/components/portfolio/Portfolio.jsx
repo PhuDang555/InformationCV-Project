@@ -1,7 +1,7 @@
 import React from 'react'
 import './Portfolio.css'
 import IMG1 from '../../assets/portfolio8.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
+import IMG2 from '../../assets/portfolio7.jpg'
 
 
 const data= [
@@ -15,9 +15,9 @@ const data= [
   {
     id:2,
     image:IMG2,
-    title:'React Portfolio Website Tutorial',
-    github:'https://github.com',
-    demo:'#'
+    title:'Build & Deploy React JS Portfolio Website Tutorial',
+    github:'https://github.com/PhuDang555/informationcv',
+    demo:'https://informationcv.vercel.app/'
   },
 ]
 
